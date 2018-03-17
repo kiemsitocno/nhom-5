@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+hr {
+  border: solid !important;
+  width: 500px !important;
+}
+
+.gia {
+	color: pink;
+}
+
+.content {
+	font-size: 15px !important;
+	font-style: inherit !important;
+}
+
+ul.main-nav li:hover{
+	background: orange;
+}
+
+ul.main-nav li>a:hover{
+	color : white !important;
+}
+
+
+
+
+
+
+
